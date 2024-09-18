@@ -174,12 +174,13 @@ h1 {
     font-family: 'Inter', sans-serif;
     transition: all 0.3s ease;
     border: 2px solid #cccccc;
-    color: #ffffff;
+    color: #333333;
 }
 
 #contrasena.security-poco-segura {
     border-color: #ff4d4d;
     background-color: #eb3e3e;
+    color: #eeeeee;
 }
 
 #contrasena.security-segura {
